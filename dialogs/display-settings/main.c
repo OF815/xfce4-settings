@@ -314,7 +314,9 @@ display_setting_timed_confirmation (XfceDisplaySettings *settings)
 
         confirmation_dialog = g_new0 (ConfirmationDialog, 1);
         confirmation_dialog->builder = builder;
-        confirmation_dialog->count = 10;
+        // This period is too short!
+        //confirmation_dialog->count = 10;
+        /confirmation_dialog->count = 60;
 
         dialog = gtk_builder_get_object (builder, "dialog1");
 

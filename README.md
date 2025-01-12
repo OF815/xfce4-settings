@@ -6,6 +6,9 @@ xfce4-settings
 The xfce4-settings component provides a daemon, manager, and editor to
 centralize the configuration management of the Xfce system.
 
+<ruby>The xfce4-settings component provides a daemon,<rt>xfce4-settingsコンポーネントはデーモンを提供します。</rt></ruby> <ruby>manager,<rt>マネージャー、</rt></ruby> <ruby>and editor<rt>編集者</rt></ruby> <ruby>to
+centralize the configuration management<rt>構成管理を一元化する</rt></ruby> <ruby>of the Xfce system.<rt>Xfce システムの。</rt></ruby>
+
 ----
 
 ### Homepage
